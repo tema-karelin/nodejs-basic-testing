@@ -10,7 +10,7 @@ type RawCalculatorInput = {
   a: unknown;
   b: unknown;
   action: unknown;
-};sxddddddddddddddddddddddddddddddddxxxxxxxxxxxddddddddddddddddddddddddddd65
+};
 
 type ValidCalculatorInput = {
   a: number;

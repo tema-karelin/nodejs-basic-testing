@@ -52,7 +52,7 @@ describe('simpleCalculator tests', () => {
     const invalidArgument = {
       a: 'a',
       b: 'b',
-      action: 5
+      action: Action.Add
     };
     expect(simpleCalculator(invalidArgument)).toBeNull();
   });

@@ -1,9 +1,9 @@
-1. Task: [basic-testing](https://github.com/AlreadyBored/basic-testing)
-2. [Code for solution](https://github.com/tema-karelin/nodejs-basic-testing)
-3. Done 12.02.2024 / deadline 13.02.2024
-4. Score: 0 / 258
+**1. Task: _[basic-testing](https://github.com/AlreadyBored/basic-testing)_**
+**2. _[Code for solution](https://github.com/tema-karelin/nodejs-basic-testing)_**
+**3. Done _13.02.2024_ / deadline _13.02.2024_**
+**4. Score: _84 / 258_**
 
-##### **Simple tests**
+##### Simple tests _+42_
 
  - [x]  should add two numbers
  - [x]  should subtract two numbers
@@ -13,9 +13,15 @@
  - [x]  should return null for invalid action
  - [x]  should return null for invalid arguments
 
-##### **Table tests**
+##### Table tests _+42_
 
- - [ ]  Jest table tests API
+ - [x]  should add two numbers
+ - [x]  should subtract two numbers
+ - [x]  should multiply two numbers
+ - [x]  should divide two numbers
+ - [x]  should exponentiate two numbers
+ - [x]  should return null for invalid action
+ - [x]  should return null for invalid arguments
 
 ##### **Error handling & async**
 
